@@ -6,7 +6,7 @@
 
 package backJoonTest;
 import java.util.Scanner;
-public class Bj2753 {
+public class Bj15_2753 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

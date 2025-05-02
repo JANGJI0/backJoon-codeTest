@@ -8,7 +8,7 @@ package backJoonTest;
 // A와 B가 같은 경우에는 '=='를 출력한다.
 
 import java.util.Scanner;
-public class Bj1330 {
+public class Bj13_1330 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

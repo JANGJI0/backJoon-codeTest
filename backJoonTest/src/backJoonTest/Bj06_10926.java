@@ -1,6 +1,6 @@
 package backJoonTest;
 import java.util.Scanner; // Scanner은 무조건 써야하는듯하다
-public class Bj10926 {
+public class Bj06_10926 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@
 // 첫째 줄에 시험 점수가 주어진다. 시험 점수는 0보다 크거나 같고, 100보다 작거나 같은 정수이다.
 package backJoonTest;
 import java.util.Scanner;
-public class Bj9498 {
+public class Bj14_9498 {
 	public void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

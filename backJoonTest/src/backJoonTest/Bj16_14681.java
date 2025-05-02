@@ -5,7 +5,7 @@ package backJoonTest;
 
 //점 (x, y)의 사분면 번호(1, 2, 3, 4 중 하나)를 출력한다.
 import java.util.Scanner;
-public class Bj14681 {
+public class Bj16_14681 {
 	public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
 	

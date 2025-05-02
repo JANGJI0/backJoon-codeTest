@@ -1,6 +1,6 @@
 package backJoonTest;
 import java.util.Scanner; // java packge 의 util 디렉토리 안에 있는 Scanner 클래스를 import 해서 사용
-public class Bj1001 {
+public class Bj02_1001 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in); // Scanner 객체명 = new Scanner(System.in);

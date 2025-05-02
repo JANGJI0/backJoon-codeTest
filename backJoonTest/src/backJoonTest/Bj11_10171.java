@@ -6,7 +6,7 @@
 
 package backJoonTest;
 
-public class Bj10171 {
+public class Bj11_10171 {
     public static void main(String[] args) {
         
         System.out.println("\\    /\\");

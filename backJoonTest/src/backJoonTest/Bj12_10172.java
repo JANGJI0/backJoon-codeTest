@@ -7,7 +7,7 @@
 
 package backJoonTest;
 
-public class Bj10172 {
+public class Bj12_10172 {
 	public static void main(String[] args) {
 		
 		System.out.println("|\\_/|");
