@@ -24,9 +24,12 @@ public class Bj40_10811 {
 
         // for문을 써서 절반까지만 뒤집기
         for (int x = 0; x < (j - i + 1) / 2; x++) {
+        	// 1 ~5 번 까지의 바꿔주는 횟수
+        	// / 2 를 하는 이유는 절반만 바꾸면 전체가 뒤집힘
             int temp = basket[i + x];
             basket[i + x] = basket[j - x];
             basket[j - x] = temp;
+            // [i] 가 아닌 [i + x]인 이유는 그 자리만 바꾸면 안되고 역순으로 되어야 하니까
 	        }
 	    }
 		// 결과 출력
