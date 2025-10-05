@@ -10,7 +10,7 @@ package backJoonTest;
  * 출력 : 1번 바구니부터 N번까지 바구니에 들어있는 공의 번호를 출력 (공이 안 들어간 바구니는 0)
  */
 import java.util.Scanner;
-public class Bj_10810 {
+public class Bj36_10810 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
